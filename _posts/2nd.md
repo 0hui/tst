@@ -7,7 +7,7 @@ title: 자기 주도 학습
 
 
 
-|<center>단계</center>|---정의---|-----활용 Tool------|
+|<center>단계</center>|<center>정의</center>|<center>활용 Tool</center>|
 |---공감---|----------|-------|
 |----|----|2|
 |----|----|3|
